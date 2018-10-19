@@ -3,5 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="google_maps_API_key">AIzaSyB9XOffNBCTfiRjynXEKwzNiu780E4IMHE</string>
+    <string name="google_maps_API_key">AIzaSyDC2m9q5ZkOCezHYpv_jwZQ6deEcub6Pfk</string>
+    <string name="server_key">AIzaSyDF8Rj31slbA4e_JsKxtADI81w2yuqCfrU</string>
+    <string name="new_key">AIzaSyDC2m9q5ZkOCezHYpv_jwZQ6deEcub6Pfk</string>
+    <string name="new_svit_key">AIzaSyCsYKDCY3hK-EfNgWPJP-kF1ubVuipFMJM</string>
+
 </resources>
